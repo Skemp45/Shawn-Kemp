@@ -1,14 +1,14 @@
 {
   "name": "salimov-react",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "next build && next export",
     "start": "next start",
     "lint": "next lint",
     "deploy": "npm run build && gh-pages -d out",
-    "predeploy": "next build"
+    "predeploy": "next build && next export && touch ./out/.nojekyll"
   },
   "dependencies": {
     "@next/font": "13.1.5",
