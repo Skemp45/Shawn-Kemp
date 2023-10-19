@@ -40,6 +40,36 @@ const Clients = () => {
             </div>
           </SwiperSlide>
           {/* SWIPER ITEM ENDS */}
+          {/* SWIPER ITEM STARTS */}
+          <SwiperSlide className="swiper-slide">
+            <div>
+              <img
+                  src="assets/az-humane.jpeg"
+                  alt="client"
+              />
+            </div>
+          </SwiperSlide>
+          {/* SWIPER ITEM ENDS */}
+          {/* SWIPER ITEM STARTS */}
+          <SwiperSlide className="swiper-slide">
+            <div>
+              <img
+                  src="assets/cy-medica.jpg"
+                  alt="client"
+              />
+            </div>
+          </SwiperSlide>
+          {/* SWIPER ITEM ENDS */}
+          {/* SWIPER ITEM STARTS */}
+          <SwiperSlide className="swiper-slide">
+            <div>
+              <img
+                  src="assets/gpppcs.png"
+                  alt="client"
+              />
+            </div>
+          </SwiperSlide>
+          {/* SWIPER ITEM ENDS */}
           <div className="swiper-pagination" />
         </Swiper>
       </div>
