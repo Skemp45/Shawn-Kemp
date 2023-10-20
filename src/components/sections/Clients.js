@@ -64,7 +64,7 @@ const Clients = () => {
           <SwiperSlide className="swiper-slide">
             <div>
               <img
-                  src="assets/gpppcs.jpeg"
+                  src="assets/gppcs.jpeg"
                   alt="client"
               />
             </div>
