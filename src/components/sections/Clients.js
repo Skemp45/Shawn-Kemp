@@ -14,7 +14,7 @@ const Clients = () => {
           <SwiperSlide className="swiper-slide">
             <div>
               <img
-                  src="assets/race-tech.jpg"
+                  src="assets/race-tech.jpeg"
                   alt="client"
               />
             </div>
@@ -24,7 +24,7 @@ const Clients = () => {
           <SwiperSlide className="swiper-slide">
             <div>
               <img
-                src="assets/four-peaks.png"
+                src="assets/four-peaks.jpeg"
                 alt="client"
               />
             </div>
@@ -34,7 +34,7 @@ const Clients = () => {
           <SwiperSlide className="swiper-slide">
             <div>
               <img
-                src="assets/west-mec.jpg"
+                src="assets/west-mec.jpeg"
                 alt="client"
               />
             </div>
@@ -54,7 +54,7 @@ const Clients = () => {
           <SwiperSlide className="swiper-slide">
             <div>
               <img
-                  src="assets/cy-medica.jpg"
+                  src="assets/cy-medica.jpeg"
                   alt="client"
               />
             </div>
@@ -64,7 +64,7 @@ const Clients = () => {
           <SwiperSlide className="swiper-slide">
             <div>
               <img
-                  src="assets/gpppcs.png"
+                  src="assets/gpppcs.jpeg"
                   alt="client"
               />
             </div>
