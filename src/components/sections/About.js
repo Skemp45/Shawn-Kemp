@@ -52,7 +52,7 @@ const About = () => {
               <li>
                 <span>
                   <span className="animated-layer fade-in-up-animation fadeInUp wow">
-                    <span>Langages :</span>
+                    <span>Languages :</span>
                     <span>English</span>
                   </span>
                 </span>
@@ -266,7 +266,7 @@ const About = () => {
                   <h4>Senior Software Engineer</h4>
                   <p>
                     <i className="fa-regular fa-clock" />
-                    <span>August 2022 - Now</span>
+                    <span>March 2022 - Now</span>
                   </p>
                   <p>
                     <i className="fa-regular fa-building" />

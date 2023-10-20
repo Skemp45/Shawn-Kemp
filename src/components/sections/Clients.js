@@ -14,7 +14,7 @@ const Clients = () => {
           <SwiperSlide className="swiper-slide">
             <div>
               <img
-                  src="assets/race-tech.jpeg"
+                  src="assets/race-tech.jpg"
                   alt="client"
               />
             </div>
